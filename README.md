@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/smitika2006/smitika2006/main/github-banner.png" alt="Smitika GitHub Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Smitika</h1>
 
 <h3 align="center">
