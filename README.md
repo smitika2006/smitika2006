@@ -93,14 +93,14 @@ A technology project focused on creating better connections, opportunities, and 
 </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smitika2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=smitika2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
