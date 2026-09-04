@@ -72,15 +72,12 @@ A project focused on connecting people and creating better opportunities through
 
 ---
 
-## 📈 Most Used Languages
+## 💻 Languages & Tools
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitika2006&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,github,vscode" />
 </p>
 
----
 
 ## 🌱 Currently Exploring
 
