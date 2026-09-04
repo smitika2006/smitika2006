@@ -42,23 +42,43 @@
 
 ### 🎬 Netflix Tableau Dashboard
 
-An interactive dashboard built using **Tableau** to explore and analyze Netflix movies and TV shows.
+Interactive dashboard exploring Netflix movies and TV shows using Tableau.
 
-🔗 Check out my repositories below to explore my work.
+<p>
+<a href="https://github.com/smitika2006/Netflix-Tableau-Dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-Netflix%20Dashboard-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ### 🍔 Zomato Power BI Dashboard
 
-An interactive **Power BI dashboard** for analyzing restaurant data, ratings, customer behavior, and other business insights.
+Interactive Power BI dashboard analyzing restaurant data, ratings, and business insights.
+
+<p>
+<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-Zomato%20Dashboard-E23744?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ### 👩‍💼 HR Analytics Dashboard
 
-A data analytics project focused on understanding employee data and generating meaningful HR insights.
+A data analytics project focused on employee trends and HR insights using Power BI and Excel.
+
+<p>
+<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
+  <img src="https://img.shields.io/badge/View%20Project-HR%20Analytics-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ### 🎓 Connect-Ed
 
-A project focused on connecting people and creating better opportunities through technology.
+A technology project focused on creating better connections and opportunities.
 
----
+<p>
+<a href="https://github.com/smitika2006/Connect-Ed">
+  <img src="https://img.shields.io/badge/View%20Project-Connect--Ed-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ## 📊 GitHub Stats
 
