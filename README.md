@@ -39,31 +39,59 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🎬 Netflix Tableau Dashboard
 
-Interactive dashboard exploring Netflix movies and TV shows using Tableau.
+An interactive Tableau dashboard exploring Netflix movies and TV shows, genres, ratings, and content trends.
 
-🔗 **[View Project](https://github.com/smitika2006/Netflix-Tableau-Dashboard)**
+<a href="https://github.com/smitika2006/Netflix-Tableau-Dashboard">
+<img src="https://img.shields.io/badge/Explore%20Project-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🍔 Zomato Power BI Dashboard
 
-Interactive Power BI dashboard analyzing restaurant data, ratings, and business insights.
+A data analytics dashboard providing insights into restaurants, ratings, customer preferences, and business performance.
 
-🔗 **[View Project](https://github.com/smitika2006/Zomato_PowerBI_Dashboard)**
+<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
+<img src="https://img.shields.io/badge/Explore%20Project-E23744?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 👩‍💼 HR Analytics Dashboard
 
-A data analytics project focused on employee trends and HR insights using Power BI and Excel.
+An analytics project focused on employee trends, workforce insights, and HR data using Power BI and Excel.
 
-🔗 **[View Project](https://github.com/smitika2006/HR_Analytics_Dashboard)**
+<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
+<img src="https://img.shields.io/badge/Explore%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🎓 Connect-Ed
 
-A technology project focused on creating better connections and opportunities.
+A technology project focused on creating better connections, opportunities, and solutions through technology.
 
-🔗 **[View Project](https://github.com/smitika2006/Connect-Ed)**
+<a href="https://github.com/smitika2006/Connect-Ed">
+<img src="https://img.shields.io/badge/Explore%20Project-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
