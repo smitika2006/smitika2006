@@ -44,24 +44,24 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 <tr>
 <td width="50%">
 
-### 🎬 Netflix Tableau Dashboard
+### 🎮 PUBG Tableau Dashboard
 
-An interactive Tableau dashboard exploring Netflix movies and TV shows, genres, ratings, and content trends.
+Interactive Tableau dashboard analyzing PUBG game data and insights.
 
-<a href="https://github.com/smitika2006/Netflix-Tableau-Dashboard">
-  <img src="https://img.shields.io/badge/Explore_Project-Netflix-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/smitika2006/pubg_tableau_dashboard">
+  <img src="https://img.shields.io/badge/Explore%20Project-PUBG%20Dashboard-E97627?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🍔 Zomato Power BI Dashboard
+### 👩‍💼 HR Analytics Dashboard
 
-A data analytics dashboard providing insights into restaurants, ratings, customer preferences, and business performance.
+An analytics project focused on employee trends, workforce insights, and HR data using Power BI and Excel.
 
-<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
-  <img src="https://img.shields.io/badge/Explore_Project-Zomato-E23744?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
+  <img src="https://img.shields.io/badge/Explore%20Project-HR%20Analytics-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -70,12 +70,38 @@ A data analytics dashboard providing insights into restaurants, ratings, custome
 <tr>
 <td width="50%">
 
-### 👩‍💼 HR Analytics Dashboard
+### 🍔 Zomato Power BI Dashboard
 
-An analytics project focused on employee trends, workforce insights, and HR data using Power BI and Excel.
+A data analytics dashboard providing insights into restaurants, ratings, customer preferences, and business performance.
 
-<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
-  <img src="https://img.shields.io/badge/Explore_Project-HR_Analytics-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
+  <img src="https://img.shields.io/badge/Explore%20Project-Zomato-E23744?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎬 Netflix Tableau Dashboard
+
+Interactive Tableau dashboard exploring Netflix movies and TV shows, genres, ratings, and content trends.
+
+<a href="https://github.com/smitika2006/Netflix_Tableau_Dashboard">
+  <img src="https://img.shields.io/badge/Explore%20Project-Netflix-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔐 MyVPN Landing Page
+
+A modern landing page project designed for a VPN service.
+
+<a href="https://github.com/smitika2006/MyVPNLandingpage">
+  <img src="https://img.shields.io/badge/Explore%20Project-MyVPN-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -87,7 +113,7 @@ An analytics project focused on employee trends, workforce insights, and HR data
 A technology project focused on creating better connections and opportunities through technology.
 
 <a href="https://github.com/smitika2006/Connect-Ed">
-  <img src="https://img.shields.io/badge/Explore_Project-Connect--Ed-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore%20Project-Connect--Ed-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
