@@ -37,6 +37,7 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 
 ---
 
+
 ## 🚀 Featured Projects
 
 <table>
@@ -48,7 +49,7 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 An interactive Tableau dashboard exploring Netflix movies and TV shows, genres, ratings, and content trends.
 
 <a href="https://github.com/smitika2006/Netflix-Tableau-Dashboard">
-<img src="https://img.shields.io/badge/Explore%20Project-E50914?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore_Project-Netflix-E50914?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -60,7 +61,7 @@ An interactive Tableau dashboard exploring Netflix movies and TV shows, genres, 
 A data analytics dashboard providing insights into restaurants, ratings, customer preferences, and business performance.
 
 <a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
-<img src="https://img.shields.io/badge/Explore%20Project-E23744?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore_Project-Zomato-E23744?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -74,7 +75,7 @@ A data analytics dashboard providing insights into restaurants, ratings, custome
 An analytics project focused on employee trends, workforce insights, and HR data using Power BI and Excel.
 
 <a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
-<img src="https://img.shields.io/badge/Explore%20Project-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore_Project-HR_Analytics-6A5ACD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -83,10 +84,10 @@ An analytics project focused on employee trends, workforce insights, and HR data
 
 ### 🎓 Connect-Ed
 
-A technology project focused on creating better connections, opportunities, and solutions through technology.
+A technology project focused on creating better connections and opportunities through technology.
 
 <a href="https://github.com/smitika2006/Connect-Ed">
-<img src="https://img.shields.io/badge/Explore%20Project-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore_Project-Connect--Ed-2E8B57?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
