@@ -117,11 +117,7 @@ A technology project focused on creating better connections and opportunities.
 <a href="https://github.com/smitika2006">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 </p>
 
