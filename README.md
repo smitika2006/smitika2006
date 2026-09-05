@@ -10,8 +10,12 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst+%F0%9F%93%8A;Exploring+AI+%26+Technology+%F0%9F%A4%96;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 ---
+
 
 ## 👩‍💻 About Me
 
