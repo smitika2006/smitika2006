@@ -117,10 +117,7 @@ currently: Learning, Building & Exploring 🚀
         </td>
     </tr>
     <tr>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-            <br>FastAPI
-        </td>
+        
     </tr>
 </table>
 
@@ -139,6 +136,10 @@ currently: Learning, Building & Exploring 🚀
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
             <br>SQLite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+            <br>FastAPI
         </td>
     </tr>
 </table>
