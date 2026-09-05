@@ -125,7 +125,7 @@ A technology project focused on creating better connections and opportunities th
 
 🐍 My Contribution Journey
 
-<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /></div>
 
 💡 My Developer Philosophy
 
