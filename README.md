@@ -113,13 +113,6 @@ currently: Learning, Building & Exploring 🚀
 
 ---
 
-## 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
 
 ## 🧊 3D Contribution Graph
 
