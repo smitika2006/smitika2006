@@ -33,30 +33,161 @@ currently: Learning, Building & Exploring 🚀
 ---
 
 ## ⚡ Tech Stack
+<br/>
 
 <div align="center">
 
-### 💻 Programming & Databases
+### 👨‍💻 Languages
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+            <br>Python
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+            <br>Java
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+            <br>C
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+            <br>HTML5
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+            <br>CSS
+        </td>
+    </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=light" />
+### 🧠 AI / ML
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
+            <br>Scikit-Learn
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+            <br>NumPy
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+            <br>Pandas
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+            <br>Matplotlib
+        </td>
+    </tr>
+</table>
 
-<br/><br/>
-### 📊 Data Analytics & Visualization
+### 🌐 Web Frameworks & Libraries
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+            <br>React
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next JS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
+            <br>NodeJS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+            <br>Vite
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+            <br>jQuery
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+            <br>FastAPI
+        </td>
+    </tr>
+</table>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+### 🗄️ Databases
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+            <br>MySQL
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+            <br>SQLite
+        </td>
+    </tr>
+</table>
 
-<br/><br/>
-### 🌐 Web & Development
+### ☁️ Cloud & DevOps
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+            <br>Vercel
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+            <br>Netlify
+        </td>
+    </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
-
-<br/><br/>
 ### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
+<br/>
+<table align="center">
+    <tr>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
+            <br>Vscode
+        </td>
+        <td align="center" width="90">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+            <br>Figma
+        </td>
+        <td align="center" width="90">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
+            <br>Canva
+        </td>
+    </tr>
+</table>
 </div>
 
 ---
@@ -65,17 +196,11 @@ currently: Learning, Building & Exploring 🚀
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smitika2006&show_icons=true&hide_border=true&border_radius=15"/>
-
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&hide_border=true&border_radius=15"/>
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitika2006&layout=compact&hide_border=true&border_radius=15"/>
-
 </div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -129,26 +254,6 @@ currently: Learning, Building & Exploring 🚀
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/smitika2006/smitika2006/output/pacman-contribution-graph.svg"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
-## 📉 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smitika2006&bg_color=ffffff&color=FF1493&line=6BCBFF&point=FFD93D&area=true&hide_border=true"/>
 
 </div>
 
