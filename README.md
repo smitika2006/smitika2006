@@ -10,11 +10,10 @@ Aspiring Data Analyst | Problem Solver | Tech Enthusiast 🚀
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Analyst+%F0%9F%93%8A;Exploring+AI+%26+Technology+%F0%9F%A4%96;Building+Projects+and+Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<h4 align="center">if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br></br>
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
+  
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></h4>
 
 
 ## 👩‍💻 About Me
@@ -25,21 +24,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 💡 Interested in **Data Analytics, Artificial Intelligence, and Web Development**
 🌱 Continuously learning, building, and improving
 
----
 
-## 🛠️ Tech Stack
+💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,react,github,vscode" />
-</p>
+<div align="center">Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" />Frameworks & Technologies
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,git,github,vscode" />AI / Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /></div>
+
 
 
 ## 🚀 Featured Projects
@@ -124,40 +119,28 @@ A technology project focused on creating better connections and opportunities th
 </tr>
 </table>
 
----
+🔥 GitHub Streak
 
-## 📊 GitHub Stats
+<div align="center"><img src="https://streak-stats.demolab.com?user=smitika2006&theme=transparent&hide_border=true" /></div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smitika2006&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+🐍 My Contribution Journey
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+<div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" /></div>
 
----
+💡 My Developer Philosophy
 
-## 🌱 Currently Exploring
+<div align="center">«"Don't just learn technology. Use it to solve meaningful problems."»
 
-* 📊 Advanced Data Analytics
-* 🤖 Artificial Intelligence
-* 💻 Web Development
-* 🚀 Hackathon Projects
+</div>
 
----
+🌐 Connect With Me
 
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/smitika2006">
+<div align="center"><a href="https://github.com/smitika2006">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</a><a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a></div>
 
-</p>
+<div align="center">✨ Thanks for visiting my profile!
 
----
-
-<p align="center">
-⭐️ From <a href="https://github.com/smitika2006">Smitika</a> <br>
-<i>Keep Learning • Keep Building • Keep Growing 🚀</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" /></div>
