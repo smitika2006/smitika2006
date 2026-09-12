@@ -92,6 +92,7 @@ currently: Learning, Building & Exploring 🚀
 </table>
 
 ### 🌐 Web Frameworks & Libraries
+
 <br/>
 <table align="center">
     <tr>
@@ -115,9 +116,6 @@ currently: Learning, Building & Exploring 🚀
             <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
             <br>jQuery
         </td>
-    </tr>
-    <tr>
-        
     </tr>
 </table>
 
