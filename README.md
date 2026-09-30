@@ -1,34 +1,23 @@
-<!-- ==================== HEADER ==================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,20:FFD93D,40:6BCBFF,60:9BDEAC,80:C9A7EB,100:FF9CEE&height=250&section=header&text=Smitika%20Priyadarshini%20Das&fontSize=45&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Data%20Analytics%20%E2%9C%A8%20Visualization%20%E2%9C%A8%20Innovation&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=140&section=header&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Smitika+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;%F0%9F%9A%80+Learning%2C+Building+%26+Growing!" />
+<p align="center">
+  <img
+    src="./assets/about-me.svg"
+    width="100%"
+    alt="Smitika Priyadarshini Das - About Me"
+  />
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Smitika+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;%F0%9F%9A%80+Learning%2C+Building+%26+Growing!" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=smitika2006&label=PROFILE+VIEWS&color=FF1493&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=smitika2006&label=PROFILE+VIEWS&color=06B6D4&style=for-the-badge"/>
 
 </div>
-
----
-
-## 🌸 About Me
-
-```yaml
-name: Smitika Priyadarshini Das
-role: Aspiring Data Analyst
-
-skills:
-  - Power BI
-  - Tableau
-  - Excel
-  - Python
-  - SQL
-
-currently: Learning, Building & Exploring 🚀
-```
 
 ---
 
@@ -275,7 +264,10 @@ currently: Learning, Building & Exploring 🚀
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,20:FFD93D,40:6BCBFF,60:9BDEAC,80:C9A7EB,100:FF9CEE&height=140&section=footer&animation=twinkling"/>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A8A,100:0F172A&height=140&section=footer"/>
+
+</div>
 </div>
 
