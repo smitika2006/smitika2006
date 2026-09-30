@@ -1,0 +1,26 @@
+<svg width="1200" height="300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="300" fill="#05070d"/>
+
+  <text
+    x="600"
+    y="130"
+    text-anchor="middle"
+    fill="#00e5ff"
+    font-size="50"
+    font-family="monospace">
+    SMITIKA // DEVELOPER
+  </text>
+
+  <text
+    x="600"
+    y="180"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-size="20"
+    font-family="monospace">
+    AI • DATA • SOFTWARE • IMPACT
+  </text>
+
+</svg>
