@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:0B1020,55:123A49,80:0B1020,100:05070D&height=250&section=header&text=TURNING%20IDEAS%20INTO%20CODE&fontSize=38&fontColor=5DEBFF&animation=twinkling&fontAlignY=42"/>
+  <img src="./assets/banner.svg?v=1" width="100%" alt="TURNING IDEAS INTO CODE"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&duration=3000&pause=800&color=5DEBFF&center=true&vCenter=true&width=850&lines=Hey+there%2C+I'm+Smitika+%F0%9F%91%8B;Aspiring+Data+Analyst+%F0%9F%93%8A;Power+BI+%7C+Tableau+%7C+Python+%7C+SQL;%F0%9F%9A%80+Learning+%7C+Building+%7C+Growing" /><br/>
   <img src="https://komarev.com/ghpvc/?username=smitika2006&label=PROFILE+VIEWS&color=5DEBFF&style=for-the-badge"/>
 </div>
@@ -246,8 +246,9 @@
 </a>
 <br>
 </br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%9C%A8;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80" />
-
+<p align="center">
+  <img src="./assets/footer.svg?v=1" width="100%" alt=""/>
+</p>
 <br/><br/>
 
 <div align="center">
