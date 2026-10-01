@@ -1,0 +1,312 @@
+<svg width="1200" height="170" viewBox="0 0 1200 170"
+xmlns="http://www.w3.org/2000/svg">
+
+  <defs><!-- Matching header background -->
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#05070D"/>
+  <stop offset="25%" stop-color="#0B1020"/>
+  <stop offset="55%" stop-color="#123A49"/>
+  <stop offset="80%" stop-color="#0B1020"/>
+  <stop offset="100%" stop-color="#05070D"/>
+</linearGradient>
+
+<!-- Center atmospheric glow -->
+<radialGradient id="glowArea">
+  <stop offset="0%" stop-color="#123A49" stop-opacity="0.5"/>
+  <stop offset="55%" stop-color="#7C3AED" stop-opacity="0.08"/>
+  <stop offset="100%" stop-color="#05070D" stop-opacity="0"/>
+</radialGradient>
+
+<!-- Star glow -->
+<filter id="starGlow"
+        x="-200%"
+        y="-200%"
+        width="400%"
+        height="400%">
+  <feGaussianBlur stdDeviation="2.2" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+<!-- Clip -->
+<clipPath id="footerClip">
+  <rect width="1200" height="170"/>
+</clipPath>
+
+  </defs>  <!-- ================================================= -->  <!-- BACKGROUND -->  <!-- ================================================= --><rect width="1200"
+height="170"
+fill="url(#bg)"/>
+
+<ellipse cx="600"
+cy="75"
+rx="520"
+ry="120"
+fill="url(#glowArea)"/>
+
+  <!-- ================================================= -->  <!-- STAR FIELD -->  <!-- ================================================= --><g clip-path="url(#footerClip)"
+fill="#5DEBFF"
+filter="url(#starGlow)">
+
+<!-- Left side -->
+<circle cx="45" cy="38" r="0.9">
+  <animate attributeName="opacity"
+           values="0.15;1;0.2;0.7;0.15"
+           dur="3.2s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="95" cy="75" r="1.2">
+  <animate attributeName="opacity"
+           values="0.8;0.15;0.9;0.2;0.8"
+           dur="2.7s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="155" cy="30" r="0.7">
+  <animate attributeName="opacity"
+           values="0.2;1;0.2"
+           dur="2.3s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="210" cy="58" r="1">
+  <animate attributeName="opacity"
+           values="0.1;0.8;0.15"
+           dur="3.6s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="270" cy="25" r="0.8">
+  <animate attributeName="opacity"
+           values="0.7;0.1;0.9;0.15;0.7"
+           dur="4s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="330" cy="65" r="1.1">
+  <animate attributeName="opacity"
+           values="0.15;1;0.15"
+           dur="2.9s"
+           repeatCount="indefinite"/>
+</circle>
+
+
+<!-- Center -->
+<circle cx="420" cy="35" r="0.8">
+  <animate attributeName="opacity"
+           values="0.2;0.9;0.15"
+           dur="3.4s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="490" cy="62" r="1">
+  <animate attributeName="opacity"
+           values="0.8;0.1;0.8"
+           dur="2.6s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="710" cy="35" r="0.9">
+  <animate attributeName="opacity"
+           values="0.15;1;0.2"
+           dur="3s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="770" cy="65" r="1.1">
+  <animate attributeName="opacity"
+           values="0.7;0.1;0.8;0.15;0.7"
+           dur="3.8s"
+           repeatCount="indefinite"/>
+</circle>
+
+
+<!-- Right side -->
+<circle cx="840" cy="27" r="0.8">
+  <animate attributeName="opacity"
+           values="0.1;1;0.15"
+           dur="2.5s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="900" cy="58" r="1">
+  <animate attributeName="opacity"
+           values="0.8;0.15;0.8"
+           dur="3.1s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="960" cy="30" r="1.2">
+  <animate attributeName="opacity"
+           values="0.15;1;0.15"
+           dur="2.8s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1020" cy="75" r="0.8">
+  <animate attributeName="opacity"
+           values="0.9;0.1;0.8;0.15;0.9"
+           dur="4.1s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1080" cy="35" r="1">
+  <animate attributeName="opacity"
+           values="0.1;0.9;0.1"
+           dur="3.3s"
+           repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1145" cy="68" r="0.8">
+  <animate attributeName="opacity"
+           values="0.7;0.1;0.8"
+           dur="2.4s"
+           repeatCount="indefinite"/>
+</circle>
+
+  </g>  <!-- ================================================= -->  <!-- DAZZLING SPARKLES -->  <!-- ================================================= -->  <g fill="#E8FCFF" filter="url(#starGlow)"><!-- Left large sparkle -->
+<g transform="translate(125 48)">
+  <path d="M0,-6 L1.2,-1.2 L6,0
+           L1.2,1.2 L0,6
+           L-1.2,1.2 L-6,0
+           L-1.2,-1.2 Z">
+
+    <animate attributeName="opacity"
+             values="0.1;1;0.15"
+             dur="3.3s"
+             repeatCount="indefinite"/>
+
+    <animateTransform attributeName="transform"
+                      type="rotate"
+                      from="0"
+                      to="360"
+                      dur="9s"
+                      repeatCount="indefinite"/>
+  </path>
+</g>
+
+
+<!-- Right large sparkle -->
+<g transform="translate(1070 52)">
+  <path d="M0,-6 L1.2,-1.2 L6,0
+           L1.2,1.2 L0,6
+           L-1.2,1.2 L-6,0
+           L-1.2,-1.2 Z">
+
+    <animate attributeName="opacity"
+             values="0.15;1;0.15"
+             dur="2.8s"
+             repeatCount="indefinite"/>
+
+    <animateTransform attributeName="transform"
+                      type="rotate"
+                      from="360"
+                      to="0"
+                      dur="8s"
+                      repeatCount="indefinite"/>
+  </path>
+</g>
+
+
+<!-- Small center sparkles -->
+<g transform="translate(300 105)">
+  <path d="M0,-4 L0.8,-0.8 L4,0
+           L0.8,0.8 L0,4
+           L-0.8,0.8 L-4,0
+           L-0.8,-0.8 Z">
+
+    <animate attributeName="opacity"
+             values="0.05;0.9;0.05"
+             dur="2.4s"
+             repeatCount="indefinite"/>
+  </path>
+</g>
+
+<g transform="translate(900 105)">
+  <path d="M0,-4 L0.8,-0.8 L4,0
+           L0.8,0.8 L0,4
+           L-0.8,0.8 L-4,0
+           L-0.8,-0.8 Z">
+
+    <animate attributeName="opacity"
+             values="0.05;0.8;0.05"
+             dur="3.1s"
+             repeatCount="indefinite"/>
+  </path>
+</g>
+
+  </g>  <!-- ================================================= -->  <!-- FLOWING FOOTER WAVE -->  <!-- ================================================= --><path d="
+M0 105
+C130 135 245 150 370 125
+C470 105 535 82 600 92
+C665 82 730 105 830 125
+C955 150 1070 135 1200 105
+L1200 170
+L0 170
+Z"
+fill="#05070D"
+fill-opacity="0.94"/>
+
+  <!-- Cyan wave edge --><path d="
+M0 105
+C130 135 245 150 370 125
+C470 105 535 82 600 92
+C665 82 730 105 830 125
+C955 150 1070 135 1200 105"
+fill="none"
+stroke="#5DEBFF"
+stroke-width="1"
+stroke-opacity="0.28">
+
+<animate attributeName="stroke-opacity"
+         values="0.12;0.4;0.12"
+         dur="4s"
+         repeatCount="indefinite"/>
+
+  </path>  <!-- ================================================= -->  <!-- SUBTLE PURPLE SECONDARY WAVE -->  <!-- ================================================= --><path d="
+M0 115
+C150 145 250 155 380 132
+C480 114 540 98 600 104
+C660 98 720 114 820 132
+C950 155 1050 145 1200 115"
+fill="none"
+stroke="#7C3AED"
+stroke-width="1"
+stroke-opacity="0.16">
+
+<animate attributeName="stroke-opacity"
+         values="0.05;0.28;0.05"
+         dur="5s"
+         repeatCount="indefinite"/>
+
+  </path>  <!-- ================================================= -->  <!-- FLOWING LIGHT POINT -->  <!-- ================================================= --><circle cx="600"
+cy="94"
+r="2"
+fill="#5DEBFF"
+filter="url(#starGlow)">
+
+<animate attributeName="r"
+         values="1.2;3;1.2"
+         dur="2.2s"
+         repeatCount="indefinite"/>
+
+<animate attributeName="opacity"
+         values="0.3;1;0.3"
+         dur="2.2s"
+         repeatCount="indefinite"/>
+
+  </circle>  <!-- ================================================= -->  <!-- CORNER ACCENTS -->  <!-- ================================================= --><path d="M18 25 L18 12 L34 12"
+fill="none"
+stroke="#5DEBFF"
+stroke-width="1.5"
+stroke-opacity="0.45"/>
+
+<path d="M1166 12 L1182 12 L1182 25"
+fill="none"
+stroke="#7C3AED"
+stroke-width="1.5"
+stroke-opacity="0.45"/>
+
+</svg>
