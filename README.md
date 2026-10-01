@@ -247,7 +247,7 @@
 <br>
 </br>
 <p align="center">
-  <img src="./assets/footer.svg?v=2" width="100%" alt=""/>
+  <img src="./assets/footer.svg?v=3" width="100%" alt=""/>
 </p>
 </div>
 
