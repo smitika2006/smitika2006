@@ -208,8 +208,8 @@
 ---
 
 ## 🚀 FEATURED PROJECTS
-
 <div align="center">
+
 <p>
   <sub> Data Analytics • Business Intelligence • Visualization</sub>
 </p>
