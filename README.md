@@ -211,7 +211,7 @@
 
 <div align="center">
 <p>
-  <sub>Selected projects • Data Analytics • Business Intelligence • Visualization</sub>
+  <sub> Data Analytics • Business Intelligence • Visualization</sub>
 </p>
 
 <br/>
@@ -221,7 +221,7 @@
 
 <td width="50%" align="center">
 
-<a href="https://github.com/smitika2006">
+<a href="https://github.com/smitika2006/Netflix_Tableau_Dashboard.git">
 <img src="https://img.shields.io/badge/🎬_NETFLIX_TABLEAU_DASHBOARD-05070D?style=for-the-badge&logoColor=5DEBFF&labelColor=0B1020&color=5DEBFF"/>
 </a>
 
