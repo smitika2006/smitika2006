@@ -8,7 +8,7 @@
  
 <p align="center">
   <img
-    src="./assets/about-me.svg"
+    src="./assets/about-me.svg?v=2"
     width="100%"
     alt="Smitika Priyadarshini Das - About Me"
   />
