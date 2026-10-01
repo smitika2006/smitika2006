@@ -16,12 +16,12 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ TECH STACK
 <br/>
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👨‍💻 LANGUAGES
 <br/>
 <table align="center">
     <tr>
@@ -75,7 +75,7 @@
     </tr>
 </table>
 
-### 🌐 Web Frameworks & Libraries
+### 🌐 WEB FRAMEWORKS & LIBRARIES
 
 <br/>
 <table align="center">
@@ -126,7 +126,7 @@
     </tr>
 </table>
 
-### ☁️ Cloud & DevOps
+### ☁️ CLOUD & DEVOPS
 <br/>
 <table align="center">
     <tr>
@@ -145,7 +145,7 @@
     </tr>
 </table>
 
-### ⚙️ Tools & Platforms
+### ⚙️ TOOLS & PLATFORMS
 <br/>
 <table align="center">
     <tr>
@@ -175,7 +175,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -185,7 +185,7 @@
 
 </div>
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
@@ -211,7 +211,7 @@
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 CURRENTLY EXPLORING
 
 <div align="center">
 
@@ -222,7 +222,7 @@
 ---
 
 
-## 🧊 3D Contribution Graph
+## 🧊 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -232,7 +232,7 @@
 
 ---
 
-## 🎮 Pac-Man Contribution Animation
+## 🎮 PAC-MAN CONTRIBUTION ANIMATION
 
 <div align="center">
 
@@ -242,7 +242,7 @@
 
 ---
 
-## 🌈 Let's Connect
+## 🌈 LET'S CONNECT
 
 <div align="center">
 
