@@ -210,24 +210,119 @@
 ## 🚀 FEATURED PROJECTS
 
 <div align="center">
-
-<a href="https://github.com/smitika2006">
-<img src="https://img.shields.io/badge/🎬_Netflix_Tableau_Dashboard-FF69B4?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
-<img src="https://img.shields.io/badge/🍽️_Zomato_Power_BI-FFD93D?style=for-the-badge"/>
-</a>
+<p>
+  <sub>Selected projects • Data Analytics • Business Intelligence • Visualization</sub>
+</p>
 
 <br/>
 
-<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
-<img src="https://img.shields.io/badge/👩‍💼_HR_Analytics-6BCBFF?style=for-the-badge"/>
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/smitika2006">
+<img src="https://img.shields.io/badge/🎬_NETFLIX_TABLEAU_DASHBOARD-05070D?style=for-the-badge&logoColor=5DEBFF&labelColor=0B1020&color=5DEBFF"/>
 </a>
 
-<a href="https://github.com/smitika2006/pubg_tableau_dashboard">
-<img src="https://img.shields.io/badge/🎮_PUBG_Tableau-C9A7EB?style=for-the-badge"/>
+<br/><br/>
+
+<sub><b>Netflix Tableau Dashboard</b></sub>
+
+<br/>
+
+<sub>
+Interactive visualization and analysis of Netflix content,
+genres, ratings and release trends.
+</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TABLEAU-5DEBFF?style=flat-square&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-7C3AED?style=flat-square&labelColor=05070D"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/smitika2006/Zomato_PowerBI_Dashboard">
+<img src="https://img.shields.io/badge/🍽️_ZOMATO_POWER_BI-05070D?style=for-the-badge&logoColor=5DEBFF&labelColor=0B1020&color=5DEBFF"/>
 </a>
+
+<br/><br/>
+
+<sub><b>Zomato Power BI Dashboard</b></sub>
+
+<br/>
+
+<sub>
+Business intelligence dashboard exploring restaurant,
+rating, pricing and location-based insights.
+</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWER_BI-5DEBFF?style=flat-square&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/BI_ANALYTICS-7C3AED?style=flat-square&labelColor=05070D"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/smitika2006/HR_Analytics_Dashboard">
+<img src="https://img.shields.io/badge/👩‍💼_HR_ANALYTICS-05070D?style=for-the-badge&logoColor=5DEBFF&labelColor=0B1020&color=5DEBFF"/>
+</a>
+
+<br/><br/>
+
+<sub><b>HR Analytics Dashboard</b></sub>
+
+<br/>
+
+<sub>
+Interactive workforce analytics focused on employee,
+department and HR performance insights.
+</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/POWER_BI-5DEBFF?style=flat-square&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/HR_ANALYTICS-7C3AED?style=flat-square&labelColor=05070D"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/smitika2006/pubg_tableau_dashboard">
+<img src="https://img.shields.io/badge/🎮_PUBG_TABLEAU-05070D?style=for-the-badge&logoColor=5DEBFF&labelColor=0B1020&color=5DEBFF"/>
+</a>
+
+<br/><br/>
+
+<sub><b>PUBG Tableau Dashboard</b></sub>
+
+<br/>
+
+<sub>
+Game data visualization dashboard exploring player,
+weapon and gameplay-related patterns.
+</sub>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TABLEAU-5DEBFF?style=flat-square&labelColor=05070D"/>
+<img src="https://img.shields.io/badge/DATA_VISUALIZATION-7C3AED?style=flat-square&labelColor=05070D"/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 </div>
 
@@ -242,7 +337,6 @@
 </div>
 
 ---
-
 
 ## 🧊 3D CONTRIBUTION GRAPH
 
