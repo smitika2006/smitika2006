@@ -17,164 +17,146 @@
 ---
 
 ## ⚡ TECH STACK
+<br/><div align="center">
 <br/>
+"LANGUAGES // CORE"
 
-<div align="center">
-
-### 👨‍💻 LANGUAGES
-<br/>
 <table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-            <br>Python
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-            <br>JavaScript
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-            <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-            <br>C
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-            <br>HTML5
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-            <br>CSS
-        </td>
-    </tr>
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+<br/>Python
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65"/>
+<br/>JavaScript
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65"/>
+<br/>TypeScript
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65"/>
+<br/>Java
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="52" height="52"/>
+<br/>C
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="52" height="52"/>
+<br/>HTML
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="52" height="52"/>
+<br/>CSS
+</td></tr>
 </table>
-
-### 🧠 AI / ML
 <br/>
-<table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn" />
-            <br>Scikit-Learn
-        </td>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-            <br>NumPy
-        </td>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-            <br>Pandas
-        </td>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
-            <br>Matplotlib
-        </td>
-    </tr>
-</table>
 
-### 🌐 WEB FRAMEWORKS & LIBRARIES
+"AI / ML // DATA"
 
-<br/>
 <table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-            <br>React
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-            <br>Next JS
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-            <br>NodeJS
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-            <br>Vite
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-            <br>jQuery
-        </td>
-    </tr>
-</table>
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65"/>
+<br/>Python
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="52" height="52"/>
+<br/>NumPy
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="52" height="52"/>
+<br/>Pandas
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="52" height="52"/>
+<br/>Scikit-Learn
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52"/>
+<br/>Matplotlib
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="52" height="52"/>
+<br/>Power BI
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="52" height="52"/>
+<br/>Tableau
+</td></tr>
+</table><br/>
+"WEB // FRAMEWORKS"
 
-### 🗄️ Databases
-<br/>
 <table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-            <br>MySQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-            <br>MongoDB
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-            <br>SQLite
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-            <br>FastAPI
-        </td>
-    </tr>
-</table>
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
+<br/>React
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" height="65"/>
+<br/>Next.js
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65"/>
+<br/>Node.js
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="52" height="52"/>
+<br/>FastAPI
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="52" height="52"/>
+<br/>Vite
+</td></tr>
+</table><br/>
 
-### ☁️ CLOUD & DEVOPS
-<br/>
-<table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-            <br>AWS
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-            <br>Vercel
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-            <br>Netlify
-        </td>
-    </tr>
-</table>
+"DATABASE // BACKEND"
 
-### ⚙️ TOOLS & PLATFORMS
-<br/>
 <table align="center">
-    <tr>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-            <br>Git
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-            <br>GitHub
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Vscode" />
-            <br>Vscode
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-            <br>Figma
-        </td>
-        <td align="center" width="90">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="48" height="48" alt="Canva" />
-            <br>Canva
-        </td>
-    </tr>
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
+<br/>MySQL
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65"/>
+<br/>MongoDB
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="52" height="52"/>
+<br/>SQLite
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/supabase-icon.svg" width="65" height="65"/>
+<br/>Supabase
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52"/>
+<br/>SQL
+</td></tr>
+</table><br/>
+
+"CLOUD // DEPLOYMENT"
+
+<table align="center">
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
+<br/>AWS
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/vercel-icon.svg" width="65" height="65"/>
+<br/>Vercel
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="52" height="52"/>
+<br/>Netlify
+</td></tr>
+</table><br/>
+
+"TOOLS // WORKFLOW"
+
+<table align="center">
+<tr><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65"/>
+<br/>Git
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
+<br/>GitHub
+</td><td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65"/>
+<br/>VS Code
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="52"/>
+<br/>Figma
+</td><td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="52" height="52"/>
+<br/>Canva
+</td></tr>
 </table>
 </div>
 
 ---
-
 ## 📊 GITHUB STATS
 
 <div align="center">
