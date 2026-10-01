@@ -247,14 +247,7 @@
 <br>
 </br>
 <p align="center">
-  <img src="./assets/footer.svg?v=1" width="100%" alt=""/>
+  <img src="./assets/footer.svg?v=2" width="100%" alt=""/>
 </p>
-<br/><br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,25:0B1020,55:123A49,80:0B1020,100:05070D&height=180&section=footer"/>
-
-</div>
 </div>
 
