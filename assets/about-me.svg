@@ -1,779 +1,799 @@
 <svg
-  width="1200"
-  height="520"
-  viewBox="0 0 1200 520"
-  xmlns="http://www.w3.org/2000/svg">
-
-  <!-- ========================================================= -->
-  <!-- DEFINITIONS -->
-  <!-- ========================================================= -->
-
-  <defs>
-
-    <!-- Main background -->
-    <linearGradient id="bg"
-      x1="0" y1="0"
-      x2="1" y2="1">
-
-      <stop offset="0%" stop-color="#05070D"/>
-      <stop offset="50%" stop-color="#0B1020"/>
-      <stop offset="100%" stop-color="#03050A"/>
-
-    </linearGradient>
-
-
-    <!-- Main glass card -->
-    <linearGradient id="card"
-      x1="0" y1="0"
-      x2="1" y2="1">
-
-      <stop offset="0%" stop-color="#111827"/>
-      <stop offset="50%" stop-color="#0D1524"/>
-      <stop offset="100%" stop-color="#080D17"/>
-
-    </linearGradient>
-
-
-    <!-- Glass highlight -->
-    <linearGradient id="glass"
-      x1="0" y1="0"
-      x2="1" y2="0">
-
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
-      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.02"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-
-    </linearGradient>
-
-
-    <!-- Cyan glow -->
-    <linearGradient id="cyan"
-      x1="0" y1="0"
-      x2="1" y2="1">
-
-      <stop offset="0%" stop-color="#5DEBFF"/>
-      <stop offset="100%" stop-color="#2389A5"/>
-
-    </linearGradient>
-
-
-    <!-- Purple accent -->
-    <linearGradient id="purple"
-      x1="0" y1="0"
-      x2="1" y2="1">
-
-      <stop offset="0%" stop-color="#B66CFF"/>
-      <stop offset="100%" stop-color="#5B32A3"/>
-
-    </linearGradient>
-
-
-    <!-- Background glow -->
-    <radialGradient id="glow1">
-
-      <stop offset="0%" stop-color="#087F9B" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#087F9B" stop-opacity="0"/>
-
-    </radialGradient>
-
-
-    <radialGradient id="glow2">
-
-      <stop offset="0%" stop-color="#7A35C5" stop-opacity="0.16"/>
-      <stop offset="100%" stop-color="#7A35C5" stop-opacity="0"/>
-
-    </radialGradient>
-
-
-    <!-- Card shadow -->
-    <filter id="shadow"
-      x="-30%"
-      y="-30%"
-      width="160%"
-      height="170%">
-
-      <feGaussianBlur
-        stdDeviation="14"/>
-
-    </filter>
-
-
-    <!-- Cyan glow -->
-    <filter id="cyanGlow"
-      x="-100%"
-      y="-100%"
-      width="300%"
-      height="300%">
-
-      <feGaussianBlur
-        stdDeviation="6"
-        result="blur"/>
-
-      <feMerge>
-
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-
-      </feMerge>
-
-    </filter>
-
-
-    <!-- Purple glow -->
-    <filter id="purpleGlow"
-      x="-100%"
-      y="-100%"
-      width="300%"
-      height="300%">
-
-      <feGaussianBlur
-        stdDeviation="5"
-        result="blur"/>
-
-      <feMerge>
-
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-
-      </feMerge>
-
-    </filter>
-
-
-    <!-- Grid pattern -->
-    <pattern
-      id="grid"
-      width="45"
-      height="45"
-      patternUnits="userSpaceOnUse">
-
-      <path
-        d="M45 0H0V45"
-        fill="none"
-        stroke="#1B6B82"
-        stroke-width="0.7"
-        opacity="0.22"/>
-
-    </pattern>
-
-  </defs>
-
-
-  <!-- ========================================================= -->
-  <!-- BACKGROUND -->
-  <!-- ========================================================= -->
-
-  <rect
-    width="1200"
-    height="520"
-    rx="32"
-    fill="url(#bg)"/>
-
-
-  <!-- Background cyan light -->
-
-  <ellipse
-    cx="170"
-    cy="120"
-    rx="300"
-    ry="220"
-    fill="url(#glow1)"/>
-
-
-  <!-- Background purple light -->
-
-  <ellipse
-    cx="1040"
-    cy="120"
-    rx="300"
-    ry="250"
-    fill="url(#glow2)"/>
-
-
-  <!-- ========================================================= -->
-  <!-- BACKGROUND GRID -->
-  <!-- ========================================================= -->
-
-  <rect
-    x="0"
-    y="0"
-    width="1200"
-    height="520"
-    fill="url(#grid)"
-    opacity="0.35"/>
-
-
-  <!-- ========================================================= -->
-  <!-- TOP LABEL -->
-  <!-- ========================================================= -->
-
-  <text
-    x="600"
-    y="42"
-    text-anchor="middle"
-    fill="#5DEBFF"
-    font-size="12"
-    font-family="monospace"
-    letter-spacing="5">
-
-    SMITIKA // PROFILE_CORE
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- 3D FLOOR -->
-  <!-- ========================================================= -->
+width="1200"
+height="520"
+viewBox="0 0 1200 520"
+xmlns="http://www.w3.org/2000/svg">
+
+  <defs><!-- ================= BACKGROUND ================= -->
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#05070D"/>
+  <stop offset="50%" stop-color="#0B1020"/>
+  <stop offset="100%" stop-color="#03050A"/>
+</linearGradient>
+
+<linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#111827"/>
+  <stop offset="50%" stop-color="#0D1524"/>
+  <stop offset="100%" stop-color="#080D17"/>
+</linearGradient>
+
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.08"/>
+  <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.02"/>
+  <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+</linearGradient>
+
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#5DEBFF"/>
+  <stop offset="100%" stop-color="#2389A5"/>
+</linearGradient>
+
+<linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#B66CFF"/>
+  <stop offset="100%" stop-color="#5B32A3"/>
+</linearGradient>
+
+<!-- ================= GLOWS ================= -->
+
+<radialGradient id="glow1">
+  <stop offset="0%" stop-color="#087F9B" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#087F9B" stop-opacity="0"/>
+</radialGradient>
+
+<radialGradient id="glow2">
+  <stop offset="0%" stop-color="#7A35C5" stop-opacity="0.16"/>
+  <stop offset="100%" stop-color="#7A35C5" stop-opacity="0"/>
+</radialGradient>
+
+<filter id="shadow"
+  x="-30%"
+  y="-30%"
+  width="160%"
+  height="170%">
+
+  <feGaussianBlur stdDeviation="14"/>
+
+</filter>
+
+<filter id="cyanGlow"
+  x="-100%"
+  y="-100%"
+  width="300%"
+  height="300%">
+
+  <feGaussianBlur
+    stdDeviation="6"
+    result="blur"/>
+
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+
+</filter>
+
+<filter id="purpleGlow"
+  x="-100%"
+  y="-100%"
+  width="300%"
+  height="300%">
+
+  <feGaussianBlur
+    stdDeviation="5"
+    result="blur"/>
+
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+
+</filter>
+
+<!-- ================= GRID ================= -->
+
+<pattern
+  id="grid"
+  width="45"
+  height="45"
+  patternUnits="userSpaceOnUse">
 
   <path
-    d="M0 430
-       L600 315
-       L1200 430
-       L1200 520
-       L0 520 Z"
-    fill="#070B14"
-    opacity="0.95"/>
-
-
-  <!-- Perspective grid -->
-
-  <g
-    stroke="#1B6B82"
-    stroke-width="1"
-    opacity="0.28">
-
-    <path d="M600 315 L80 520"/>
-    <path d="M600 315 L220 520"/>
-    <path d="M600 315 L360 520"/>
-    <path d="M600 315 L480 520"/>
-    <path d="M600 315 L600 520"/>
-    <path d="M600 315 L720 520"/>
-    <path d="M600 315 L840 520"/>
-    <path d="M600 315 L980 520"/>
-    <path d="M600 315 L1120 520"/>
-
-  </g>
-
-
-  <!-- Horizontal perspective lines -->
-
-  <g
-    stroke="#1B6B82"
-    stroke-width="1"
-    opacity="0.18">
-
-    <path d="M430 350 H770"/>
-    <path d="M330 375 H870"/>
-    <path d="M220 405 H980"/>
-    <path d="M100 445 H1100"/>
-    <path d="M0 490 H1200"/>
-
-  </g>
-
-
-  <!-- ========================================================= -->
-  <!-- MAIN CARD SHADOW -->
-  <!-- ========================================================= -->
-
-  <rect
-    x="90"
-    y="78"
-    width="1020"
-    height="335"
-    rx="30"
-    fill="#000000"
-    opacity="0.75"
-    filter="url(#shadow)"
-    transform="translate(10 18)"/>
-
-
-  <!-- ========================================================= -->
-  <!-- MAIN 3D CARD DEPTH -->
-  <!-- ========================================================= -->
-
-  <rect
-    x="90"
-    y="78"
-    width="1020"
-    height="335"
-    rx="30"
-    fill="#071018"
-    stroke="#153A47"
-    stroke-width="2"
-    transform="translate(10 14)"/>
-
-
-  <!-- ========================================================= -->
-  <!-- MAIN GLASS CARD -->
-  <!-- ========================================================= -->
-
-  <rect
-    x="90"
-    y="78"
-    width="1020"
-    height="335"
-    rx="30"
-    fill="url(#card)"
-    stroke="#2B9DB5"
-    stroke-width="1.5"/>
-
-
-  <!-- Glass reflection -->
-
-  <path
-    d="M120 103
-       H1080
-       Q1095 103 1095 120
-       V155
-       H120
-       Z"
-    fill="url(#glass)"/>
-
-
-  <!-- ========================================================= -->
-  <!-- CARD TOP LIGHT -->
-  <!-- ========================================================= -->
-
-  <path
-    d="M125 100 H700"
-    stroke="#5DEBFF"
-    stroke-width="2"
-    opacity="0.75"
-    filter="url(#cyanGlow)"/>
-
-
-  <path
-    d="M700 100 H1075"
-    stroke="#B66CFF"
-    stroke-width="1"
-    opacity="0.35"/>
-
-
-  <!-- ========================================================= -->
-  <!-- LEFT IDENTITY AREA -->
-  <!-- ========================================================= -->
-
-  <text
-    x="140"
-    y="145"
-    fill="#FFFFFF"
-    font-size="39"
-    font-weight="700"
-    font-family="Arial, sans-serif">
-
-    SMITIKA
-
-  </text>
-
-
-  <text
-    x="143"
-    y="175"
-    fill="#67DDF5"
-    font-size="15"
-    font-family="monospace"
-    letter-spacing="4">
-
-    PRIYADARSHINI DAS
-
-  </text>
-
-
-  <!-- Small identity line -->
-
-  <line
-    x1="145"
-    y1="195"
-    x2="500"
-    y2="195"
-    stroke="#1D5363"
-    stroke-width="1"/>
-
-
-  <!-- Role -->
-
-  <text
-    x="145"
-    y="228"
-    fill="#D9E4EE"
-    font-size="20"
-    font-family="Arial, sans-serif">
-
-    B.Tech CSE Student
-
-  </text>
-
-
-  <text
-    x="145"
-    y="255"
-    fill="#718096"
-    font-size="15"
-    font-family="Arial, sans-serif">
-
-    AI/ML Explorer • Data Enthusiast • Builder
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- MISSION -->
-  <!-- ========================================================= -->
-
-  <text
-    x="145"
-    y="282"
-    fill="#5DEBFF"
-    font-size="11"
-    font-family="monospace"
-    letter-spacing="2">
-
-    CURRENT_MISSION
-
-  </text>
-
-
-  <text
-    x="145"
-    y="306"
-    fill="#AAB8C8"
-    font-size="14"
-    font-family="Arial, sans-serif">
-
-    Turning real-world problems into practical technology.
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- SKILL CHIPS -->
-  <!-- ========================================================= -->
-
-  <!-- AI -->
-
-  <rect
-    x="145"
-    y="330"
-    width="105"
-    height="42"
-    rx="12"
-    fill="#0C1B27"
-    stroke="#236B7D"/>
-
-  <text
-    x="197"
-    y="356"
-    text-anchor="middle"
-    fill="#71E5FA"
-    font-size="13"
-    font-family="monospace">
-
-    AI / ML
-
-  </text>
-
-
-  <!-- DATA -->
-
-  <rect
-    x="262"
-    y="330"
-    width="105"
-    height="42"
-    rx="12"
-    fill="#0C1B27"
-    stroke="#236B7D"/>
-
-  <text
-    x="314"
-    y="356"
-    text-anchor="middle"
-    fill="#71E5FA"
-    font-size="13"
-    font-family="monospace">
-
-    DATA
-
-  </text>
-
-
-  <!-- SOFTWARE -->
-
-  <rect
-    x="379"
-    y="330"
-    width="125"
-    height="42"
-    rx="12"
-    fill="#0C1B27"
-    stroke="#236B7D"/>
-
-  <text
-    x="441"
-    y="356"
-    text-anchor="middle"
-    fill="#71E5FA"
-    font-size="13"
-    font-family="monospace">
-
-    SOFTWARE
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- SYSTEM STATUS PANEL -->
-  <!-- ========================================================= -->
-
-  <rect
-    x="770"
-    y="125"
-    width="275"
-    height="245"
-    rx="22"
-    fill="#060B13"
-    stroke="#193E4B"
-    stroke-width="1.5"/>
-
-
-  <!-- Status heading -->
-
-  <text
-    x="800"
-    y="158"
-    fill="#70D9EF"
-    font-size="12"
-    font-family="monospace"
-    letter-spacing="2">
-
-    SYSTEM_STATUS
-
-  </text>
-
-
-  <!-- Status divider -->
-
-  <line
-    x1="800"
-    y1="172"
-    x2="1015"
-    y2="172"
-    stroke="#173B48"
-    stroke-width="1"/>
-
-
-  <!-- ONLINE -->
-
-  <circle
-    cx="805"
-    cy="200"
-    r="5"
-    fill="#48E59A"
-    filter="url(#cyanGlow)"/>
-
-  <text
-    x="825"
-    y="205"
-    fill="#D4DEE8"
-    font-size="14"
-    font-family="monospace">
-
-    ONLINE
-
-  </text>
-
-
-  <!-- LEARNING -->
-
-  <circle
-    cx="805"
-    cy="237"
-    r="5"
-    fill="#48E59A"/>
-
-  <text
-    x="825"
-    y="242"
-    fill="#D4DEE8"
-    font-size="14"
-    font-family="monospace">
-
-    LEARNING
-
-  </text>
-
-
-  <!-- BUILDING -->
-
-  <circle
-    cx="805"
-    cy="274"
-    r="5"
-    fill="#48E59A"/>
-
-  <text
-    x="825"
-    y="279"
-    fill="#D4DEE8"
-    font-size="14"
-    font-family="monospace">
-
-    BUILDING
-
-  </text>
-
-
-  <!-- EXPLORING -->
-
-  <circle
-    cx="805"
-    cy="311"
-    r="5"
-    fill="#B66CFF"
-    filter="url(#purpleGlow)"/>
-
-  <text
-    x="825"
-    y="316"
-    fill="#D4DEE8"
-    font-size="14"
-    font-family="monospace">
-
-    EXPLORING
-
-  </text>
-
-
-  <!-- Status footer -->
-
-  <text
-    x="800"
-    y="350"
-    fill="#506274"
-    font-size="10"
-    font-family="monospace"
-    letter-spacing="1">
-
-    SYSTEM // OPERATIONAL
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- FLOATING 3D CUBE -->
-  <!-- ========================================================= -->
-
-  <g>
-
-    <!-- cube top -->
-
-    <polygon
-      points="1015,70 1050,50 1085,70 1050,91"
-      fill="#123A49"
-      stroke="#63DDF4"
-      stroke-width="1"/>
-
-
-    <!-- cube left -->
-
-    <polygon
-      points="1015,70 1050,91 1050,132 1015,111"
-      fill="#09242F"
-      stroke="#63DDF4"
-      stroke-width="1"/>
-
-
-    <!-- cube right -->
-
-    <polygon
-      points="1050,91 1085,70 1085,111 1050,132"
-      fill="#0D3040"
-      stroke="#63DDF4"
-      stroke-width="1"/>
-
-
-    <!-- cube inner line -->
-
-    <line
-      x1="1050"
-      y1="91"
-      x2="1050"
-      y2="132"
-      stroke="#7CEBFF"
-      stroke-width="1"
-      opacity="0.7"/>
-
-  </g>
-
-
-  <!-- ========================================================= -->
-  <!-- FLOATING DECORATIVE NODES -->
-  <!-- ========================================================= -->
-
-  <circle
-    cx="75"
-    cy="110"
-    r="3"
-    fill="#5DEBFF"
-    opacity="0.8"/>
-
-  <circle
-    cx="1125"
-    cy="190"
-    r="3"
-    fill="#B66CFF"
-    opacity="0.8"/>
-
-  <circle
-    cx="1120"
-    cy="380"
-    r="2"
-    fill="#5DEBFF"
-    opacity="0.6"/>
-
-  <circle
-    cx="65"
-    cy="370"
-    r="2"
-    fill="#B66CFF"
-    opacity="0.6"/>
-
-
-  <!-- ========================================================= -->
-  <!-- BOTTOM SIGNATURE -->
-  <!-- ========================================================= -->
-
-  <text
-    x="600"
-    y="470"
-    text-anchor="middle"
-    fill="#5F7185"
-    font-size="12"
-    font-family="monospace"
-    letter-spacing="5">
-
-    LEARN • BUILD • SOLVE • IMPROVE
-
-  </text>
-
-
-  <!-- ========================================================= -->
-  <!-- CORNER DETAILS -->
-  <!-- ========================================================= -->
-
-  <path
-    d="M90 110 V95 Q90 78 107 78 H130"
+    d="M45 0H0V45"
     fill="none"
-    stroke="#5DEBFF"
-    stroke-width="2"
-    opacity="0.7"/>
+    stroke="#1B6B82"
+    stroke-width="0.7"
+    opacity="0.22"/>
+
+</pattern>
+
+  </defs>  <!-- ========================================================= -->  <!-- BACKGROUND -->  <!-- ========================================================= --><rect
+width="1200"
+height="520"
+rx="32"
+fill="url(#bg)"/>
+
+  <!-- Cyan ambient light --><ellipse
+cx="170"
+cy="120"
+rx="300"
+ry="220"
+fill="url(#glow1)">
+
+<animate
+  attributeName="opacity"
+  values="0.55;0.9;0.55"
+  dur="5s"
+  repeatCount="indefinite"/>
+
+<animate
+  attributeName="rx"
+  values="300;340;300"
+  dur="6s"
+  repeatCount="indefinite"/>
+
+  </ellipse>  <!-- Purple ambient light --><ellipse
+cx="1040"
+cy="120"
+rx="300"
+ry="250"
+fill="url(#glow2)">
+
+<animate
+  attributeName="opacity"
+  values="0.45;0.8;0.45"
+  dur="6s"
+  repeatCount="indefinite"/>
+
+<animate
+  attributeName="rx"
+  values="300;335;300"
+  dur="7s"
+  repeatCount="indefinite"/>
+
+  </ellipse>  <!-- ========================================================= -->  <!-- BACKGROUND GRID -->  <!-- ========================================================= --><rect
+x="0"
+y="0"
+width="1200"
+height="520"
+fill="url(#grid)"
+opacity="0.35"/>
+
+  <!-- ========================================================= -->  <!-- TOP LABEL -->  <!-- ========================================================= --><text
+x="600"
+y="42"
+text-anchor="middle"
+fill="#5DEBFF"
+font-size="12"
+font-family="monospace"
+letter-spacing="5">
+
+SMITIKA // PROFILE_CORE
+
+  </text>  <!-- ========================================================= -->  <!-- 3D FLOOR -->  <!-- ========================================================= --><path
+d="M0 430
+L600 315
+L1200 430
+L1200 520
+L0 520 Z"
+fill="#070B14"
+opacity="0.95"/>
+
+  <!-- Perspective grid --><g
+stroke="#1B6B82"
+stroke-width="1"
+opacity="0.28">
+
+<path d="M600 315 L80 520"/>
+<path d="M600 315 L220 520"/>
+<path d="M600 315 L360 520"/>
+<path d="M600 315 L480 520"/>
+<path d="M600 315 L600 520"/>
+<path d="M600 315 L720 520"/>
+<path d="M600 315 L840 520"/>
+<path d="M600 315 L980 520"/>
+<path d="M600 315 L1120 520"/>
+
+  </g>  <!-- Horizontal perspective lines --><g
+stroke="#1B6B82"
+stroke-width="1"
+opacity="0.18">
+
+<path d="M430 350 H770"/>
+<path d="M330 375 H870"/>
+<path d="M220 405 H980"/>
+<path d="M100 445 H1100"/>
+<path d="M0 490 H1200"/>
+
+  </g>  <!-- ========================================================= -->  <!-- MAIN CARD SHADOW -->  <!-- ========================================================= --><rect
+x="90"
+y="78"
+width="1020"
+height="335"
+rx="30"
+fill="#000000"
+opacity="0.75"
+filter="url(#shadow)"
+transform="translate(10 18)"/>
+
+  <!-- ========================================================= -->  <!-- MAIN 3D CARD DEPTH -->  <!-- ========================================================= --><rect
+x="90"
+y="78"
+width="1020"
+height="335"
+rx="30"
+fill="#071018"
+stroke="#153A47"
+stroke-width="2"
+transform="translate(10 14)"/>
+
+  <!-- ========================================================= -->  <!-- MAIN GLASS CARD -->  <!-- ========================================================= --><rect
+x="90"
+y="78"
+width="1020"
+height="335"
+rx="30"
+fill="url(#card)"
+stroke="#2B9DB5"
+stroke-width="1.5"/>
+
+  <!-- Animated glass reflection --><path
+d="M120 103
+H1080
+Q1095 103 1095 120
+V155
+H120
+Z"
+fill="url(#glass)"
+opacity="0.5">
+
+<animate
+  attributeName="opacity"
+  values="0.3;0.7;0.3"
+  dur="5s"
+  repeatCount="indefinite"/>
+
+  </path>  <!-- ========================================================= -->  <!-- CARD TOP LIGHT -->  <!-- ========================================================= --><path
+d="M125 100 H700"
+stroke="#5DEBFF"
+stroke-width="2"
+opacity="0.75"
+filter="url(#cyanGlow)">
+
+<animate
+  attributeName="opacity"
+  values="0.35;1;0.35"
+  dur="3s"
+  repeatCount="indefinite"/>
+
+  </path><path
+d="M700 100 H1075"
+stroke="#B66CFF"
+stroke-width="1"
+opacity="0.35">
+
+<animate
+  attributeName="opacity"
+  values="0.15;0.6;0.15"
+  dur="4s"
+  repeatCount="indefinite"/>
+
+  </path>  <!-- ========================================================= -->  <!-- LEFT IDENTITY AREA -->  <!-- ========================================================= --><text
+x="140"
+y="145"
+fill="#FFFFFF"
+font-size="39"
+font-weight="700"
+font-family="Arial, sans-serif">
+
+SMITIKA
+
+  </text><text
+x="143"
+y="175"
+fill="#67DDF5"
+font-size="15"
+font-family="monospace"
+letter-spacing="4">
+
+PRIYADARSHINI DAS
+
+  </text><line
+x1="145"
+y1="195"
+x2="500"
+y2="195"
+stroke="#1D5363"
+stroke-width="1"/>
+
+<text
+x="145"
+y="228"
+fill="#D9E4EE"
+font-size="20"
+font-family="Arial, sans-serif">
+
+B.Tech CSE Student
+
+  </text><text
+x="145"
+y="255"
+fill="#718096"
+font-size="15"
+font-family="Arial, sans-serif">
+
+AI/ML Explorer • Data Enthusiast • Builder
+
+  </text>  <!-- ========================================================= -->  <!-- MISSION -->  <!-- ========================================================= --><text
+x="145"
+y="282"
+fill="#5DEBFF"
+font-size="11"
+font-family="monospace"
+letter-spacing="2">
+
+CURRENT_MISSION
+
+  </text><text
+x="145"
+y="306"
+fill="#AAB8C8"
+font-size="14"
+font-family="Arial, sans-serif">
+
+Turning real-world problems into practical technology.
+
+  </text>  <!-- ========================================================= -->  <!-- SKILL CHIPS -->  <!-- ========================================================= --><rect
+x="145"
+y="330"
+width="105"
+height="42"
+rx="12"
+fill="#0C1B27"
+stroke="#236B7D"/>
+
+<text
+x="197"
+y="356"
+text-anchor="middle"
+fill="#71E5FA"
+font-size="13"
+font-family="monospace">
+
+AI / ML
+
+  </text><rect
+x="262"
+y="330"
+width="105"
+height="42"
+rx="12"
+fill="#0C1B27"
+stroke="#236B7D"/>
+
+<text
+x="314"
+y="356"
+text-anchor="middle"
+fill="#71E5FA"
+font-size="13"
+font-family="monospace">
+
+DATA
+
+  </text><rect
+x="379"
+y="330"
+width="125"
+height="42"
+rx="12"
+fill="#0C1B27"
+stroke="#236B7D"/>
+
+<text
+x="441"
+y="356"
+text-anchor="middle"
+fill="#71E5FA"
+font-size="13"
+font-family="monospace">
+
+SOFTWARE
+
+  </text>  <!-- ========================================================= -->  <!-- SYSTEM STATUS PANEL -->  <!-- ========================================================= --><rect
+x="770"
+y="125"
+width="275"
+height="245"
+rx="22"
+fill="#060B13"
+stroke="#193E4B"
+stroke-width="1.5"/>
+
+<text
+x="800"
+y="158"
+fill="#70D9EF"
+font-size="12"
+font-family="monospace"
+letter-spacing="2">
+
+SYSTEM_STATUS
+
+  </text><line
+x1="800"
+y1="172"
+x2="1015"
+y2="172"
+stroke="#173B48"
+stroke-width="1"/>
+
+  <!-- ONLINE --><circle
+cx="805"
+cy="200"
+r="5"
+fill="#48E59A"
+filter="url(#cyanGlow)">
+
+<animate
+  attributeName="r"
+  values="4;7;4"
+  dur="2s"
+  repeatCount="indefinite"/>
+
+<animate
+  attributeName="opacity"
+  values="0.5;1;0.5"
+  dur="2s"
+  repeatCount="indefinite"/>
+
+  </circle><text
+x="825"
+y="205"
+fill="#D4DEE8"
+font-size="14"
+font-family="monospace">
+
+ONLINE
+
+  </text>  <!-- LEARNING --><circle
+cx="805"
+cy="237"
+r="5"
+fill="#48E59A">
+
+<animate
+  attributeName="r"
+  values="4;6;4"
+  dur="2.4s"
+  begin="0.4s"
+  repeatCount="indefinite"/>
+
+  </circle><text
+x="825"
+y="242"
+fill="#D4DEE8"
+font-size="14"
+font-family="monospace">
+
+LEARNING
+
+  </text>  <!-- BUILDING --><circle
+cx="805"
+cy="274"
+r="5"
+fill="#48E59A">
+
+<animate
+  attributeName="r"
+  values="4;7;4"
+  dur="2.2s"
+  begin="0.8s"
+  repeatCount="indefinite"/>
+
+  </circle><text
+x="825"
+y="279"
+fill="#D4DEE8"
+font-size="14"
+font-family="monospace">
+
+BUILDING
+
+  </text>  <!-- EXPLORING --><circle
+cx="805"
+cy="311"
+r="5"
+fill="#B66CFF"
+filter="url(#purpleGlow)">
+
+<animate
+  attributeName="r"
+  values="4;7;4"
+  dur="2s"
+  begin="1s"
+  repeatCount="indefinite"/>
+
+<animate
+  attributeName="opacity"
+  values="0.45;1;0.45"
+  dur="2s"
+  repeatCount="indefinite"/>
+
+  </circle><text
+x="825"
+y="316"
+fill="#D4DEE8"
+font-size="14"
+font-family="monospace">
+
+EXPLORING
+
+  </text><text
+x="800"
+y="350"
+fill="#506274"
+font-size="10"
+font-family="monospace"
+letter-spacing="1">
+
+SYSTEM // OPERATIONAL
+
+  </text>  <!-- ========================================================= -->  <!-- FLOATING 3D CUBE -->  <!-- ========================================================= -->  <g><!-- Floating movement -->
+
+<animateTransform
+  attributeName="transform"
+  type="translate"
+  values="0 0; 0 -14; 0 0; 0 10; 0 0"
+  dur="5s"
+  repeatCount="indefinite"/>
 
 
-  <path
-    d="M1110 380 V395 Q1110 413 1092 413 H1068"
-    fill="none"
-    stroke="#B66CFF"
-    stroke-width="2"
-    opacity="0.55"/>
+<!-- Cube rotation -->
 
-</svg>
+<animateTransform
+  attributeName="transform"
+  type="rotate"
+  values="-3 1050 91; 4 1050 91; -3 1050 91"
+  dur="7s"
+  additive="sum"
+  repeatCount="indefinite"/>
+
+
+<!-- Cube glow -->
+
+<circle
+  cx="1050"
+  cy="91"
+  r="55"
+  fill="#00D9FF"
+  opacity="0.08">
+
+  <animate
+    attributeName="r"
+    values="45;65;45"
+    dur="4s"
+    repeatCount="indefinite"/>
+
+  <animate
+    attributeName="opacity"
+    values="0.04;0.15;0.04"
+    dur="4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<!-- cube top -->
+
+<polygon
+  points="1015,70 1050,50 1085,70 1050,91"
+  fill="#123A49"
+  stroke="#63DDF4"
+  stroke-width="1.5"/>
+
+
+<!-- cube left -->
+
+<polygon
+  points="1015,70 1050,91 1050,132 1015,111"
+  fill="#09242F"
+  stroke="#63DDF4"
+  stroke-width="1.5"/>
+
+
+<!-- cube right -->
+
+<polygon
+  points="1050,91 1085,70 1085,111 1050,132"
+  fill="#0D3040"
+  stroke="#63DDF4"
+  stroke-width="1.5"/>
+
+
+<!-- cube center line -->
+
+<line
+  x1="1050"
+  y1="91"
+  x2="1050"
+  y2="132"
+  stroke="#7CEBFF"
+  stroke-width="1"
+  opacity="0.7"/>
+
+
+<!-- Cube highlight -->
+
+<path
+  d="M1022 69 L1050 53"
+  stroke="#C8F9FF"
+  stroke-width="2"
+  stroke-linecap="round"
+  opacity="0.7">
+
+  <animate
+    attributeName="opacity"
+    values="0.2;0.9;0.2"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</path>
+
+  </g>  <!-- ========================================================= -->  <!-- FLOATING DECORATIVE NODES -->  <!-- ========================================================= -->  <g><circle
+  cx="75"
+  cy="110"
+  r="3"
+  fill="#5DEBFF">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; 8 -10; 0 0; -6 7; 0 0"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="3s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle
+  cx="1125"
+  cy="190"
+  r="3"
+  fill="#B66CFF">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; -10 -8; 0 0; 8 6; 0 0"
+    dur="7s"
+    repeatCount="indefinite"/>
+
+  <animate
+    attributeName="opacity"
+    values="0.3;1;0.3"
+    dur="4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle
+  cx="1120"
+  cy="380"
+  r="2"
+  fill="#5DEBFF">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; -7 8; 0 0; 5 -5; 0 0"
+    dur="5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+
+<circle
+  cx="65"
+  cy="370"
+  r="2"
+  fill="#B66CFF">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; 6 -7; 0 0; -5 5; 0 0"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+  </g>  <!-- ========================================================= -->  <!-- SMALL FLOATING PARTICLES -->  <!-- ========================================================= -->  <g fill="#5DEBFF"><circle cx="920" cy="95" r="2">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; 10 -12; 0 0"
+    dur="4s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="950" cy="400" r="2">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; -8 10; 0 0"
+    dur="5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+  </g>  <!-- Purple particles -->  <g fill="#B66CFF"><circle cx="1080" cy="125" r="2">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; -8 -10; 0 0"
+    dur="5s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+<circle cx="880" cy="390" r="2">
+
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="0 0; 7 8; 0 0"
+    dur="6s"
+    repeatCount="indefinite"/>
+
+</circle>
+
+  </g>  <!-- ========================================================= -->  <!-- BOTTOM SIGNATURE -->  <!-- ========================================================= --><text
+x="600"
+y="470"
+text-anchor="middle"
+fill="#5F7185"
+font-size="12"
+font-family="monospace"
+letter-spacing="5">
+
+LEARN • BUILD • SOLVE • IMPROVE
+
+  </text>  <!-- ========================================================= -->  <!-- CORNER DETAILS -->  <!-- ========================================================= --><path
+d="M90 110 V95 Q90 78 107 78 H130"
+fill="none"
+stroke="#5DEBFF"
+stroke-width="2"
+opacity="0.7">
+
+<animate
+  attributeName="opacity"
+  values="0.3;1;0.3"
+  dur="3s"
+  repeatCount="indefinite"/>
+
+  </path><path
+d="M1110 380 V395 Q1110 413 1092 413 H1068"
+fill="none"
+stroke="#B66CFF"
+stroke-width="2"
+opacity="0.55">
+
+<animate
+  attributeName="opacity"
+  values="0.2;0.8;0.2"
+  dur="4s"
+  repeatCount="indefinite"/>
+
+  </path></svg>
