@@ -17,9 +17,9 @@
 ---
 
 ## ⚡ TECH STACK
-<br/><div align="center">
-<br/>
-"LANGUAGES // CORE"
+<div align="center">
+
+### LANGUAGES // CORE
 
 <table align="center">
 <tr><td align="center" width="100">
@@ -51,7 +51,7 @@
 </table>
 <br/>
 
-"AI / ML // DATA"
+### AI / ML // DATA
 
 <table align="center">
 <tr><td align="center" width="100">
@@ -70,24 +70,29 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="52" height="52"/>
 <br/>Matplotlib
 </td><td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg" width="52" height="52"/>
+<img src="./assets/icons/powerbi.svg" width="65" height="65"/>
 <br/>Power BI
-</td><td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/tableau.svg" width="52" height="52"/>
+</td>
+
+<td align="center" width="100">
+<img src="./assets/icons/tableau.svg" width="65" height="65"/>
 <br/>Tableau
 </td></tr>
 </table><br/>
-"WEB // FRAMEWORKS"
+
+### WEB // FRAMEWORKS
 
 <table align="center">
 <tr><td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65"/>
 <br/>React
 </td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nextjs-icon.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="52" height="52"/>
 <br/>Next.js
-</td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65"/>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="52" height="52"/>
 <br/>Node.js
 </td><td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="52" height="52"/>
@@ -98,35 +103,37 @@
 </td></tr>
 </table><br/>
 
-"DATABASE // BACKEND"
+### DATABASE // BACKEND
 
 <table align="center">
 <tr><td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65"/>
 <br/>MySQL
 </td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/mongodb-icon.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="52" height="52"/>
 <br/>MongoDB
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="52" height="52"/>
+<br/>Supabase
 </td><td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="52" height="52"/>
 <br/>SQLite
-</td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/supabase-icon.svg" width="65" height="65"/>
-<br/>Supabase
 </td><td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52"/>
 <br/>SQL
 </td></tr>
 </table><br/>
 
-"CLOUD // DEPLOYMENT"
+### CLOUD // DEPLOYMENT
 
 <table align="center">
 <tr><td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65"/>
 <br/>AWS
 </td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/vercel-icon.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="52" height="52"/>
 <br/>Vercel
 </td><td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="52" height="52"/>
@@ -134,17 +141,19 @@
 </td></tr>
 </table><br/>
 
-"TOOLS // WORKFLOW"
+### TOOLS // WORKFLOW
 
 <table align="center">
 <tr><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="52" height="52"/>
 <br/>Git
 </td><td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65"/>
 <br/>GitHub
-</td><td align="center" width="100">
-<img src="https://techstack-generator.vercel.app/vscode-icon.svg" width="65" height="65"/>
+</td>
+
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="52" height="52"/>
 <br/>VS Code
 </td><td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="52" height="52"/>
