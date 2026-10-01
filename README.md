@@ -170,11 +170,42 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&hide_border=true&border_radius=15"/>
+<table>
+<tr>
 
-<br/><br/>
+<td width="33%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=smitika2006&show_icons=true&hide_border=true&border_radius=15&bg_color=05070D&title_color=5DEBFF&icon_color=7C3AED&text_color=FFFFFF"
+  width="100%"
+/>
+
+</td>
+
+<td width="33%" align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=smitika2006&hide_border=true&border_radius=15&background=05070D&ring=5DEBFF&fire=5DEBFF&currStreakLabel=5DEBFF&sideLabels=5DEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7C3AED"
+  width="100%"
+/>
+
+</td>
+
+<td width="33%" align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitika2006&layout=compact&hide_border=true&border_radius=15&bg_color=05070D&title_color=5DEBFF&text_color=FFFFFF&icon_color=7C3AED&langs_count=6"
+  width="100%"
+/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
 
 ## 🚀 FEATURED PROJECTS
 
