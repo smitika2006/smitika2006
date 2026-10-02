@@ -339,9 +339,6 @@ weapon and gameplay-related patterns.
 ---
 ## 🐍 CONTRIBUTION ACTIVITY
 <div align="center">
-
-<br/>
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
