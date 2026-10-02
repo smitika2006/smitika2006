@@ -332,7 +332,7 @@ weapon and gameplay-related patterns.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=700&color=9B59B6&center=true&vCenter=true&width=650&lines=%F0%9F%93%8A+Data+Analytics;%F0%9F%90%8D+Python+%26+SQL;%F0%9F%A4%96+AI+%26+Innovation;%F0%9F%9A%80+Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=5DEBFF&center=true&vCenter=true&width=850&lines=%F0%9F%A4%96+Generative+%26+Agentic+AI;%F0%9F%A7%A0+AI+%26+Machine+Learning;%F0%9F%93%8A+Data+Analytics+%26+Intelligence;%F0%9F%92%BB+Full-Stack+Development;%F0%9F%9A%80+Building+Real-World+Projects" />
 
 </div>
 
