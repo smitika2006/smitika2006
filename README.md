@@ -337,7 +337,32 @@ weapon and gameplay-related patterns.
 </div>
 
 ---
+## 🐍 CONTRIBUTION ACTIVITY
+<div align="center">
 
+<br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/smitika2006/smitika2006/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
+
+</div>
+
+---
 ## 🧊 3D CONTRIBUTION GRAPH
 
 <div align="center">
