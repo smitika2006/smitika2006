@@ -385,14 +385,13 @@ weapon and gameplay-related patterns.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/smitika-priyadarshini-das-03a223366/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-5DEBFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="https://github.com/smitika2006">
-<img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Explore-5DEBFF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
-<br>
-</br>
+
 <p align="center">
   <img src="./assets/footer.svg?v=3" width="100%" alt=""/>
 </p>
